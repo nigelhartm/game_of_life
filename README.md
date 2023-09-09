@@ -1,12 +1,12 @@
 # game_of_life
-Welcome to the Game of Life project! This is a Java implementation of Conway's Game of Life, a cellular automaton devised by mathematician John Conway. In this version, we've added a graphical user interface (GUI) to make it more interactive and visually appealing.
+Welcome to the Game of Life project! This is a Java implementation of Conway's Game of Life, a cellular automaton devised by mathematician John Conway. In this version, I've added a graphical user interface (GUI) to make it more interactive and visually appealing.
 
 ## Introduction
 Conway's Game of Life is a cellular automaton that simulates the evolution of a grid of cells over time, based on a set of simple rules. Each cell can be in one of two states: alive or dead. The rules determine the next state of each cell based on its current state and the state of its neighboring cells.
 This project aims to provide a user-friendly way to explore the Game of Life, allowing you to interact with the simulation using a GUI. It's a great educational tool for learning about emergent behaviors and patterns in cellular automata.
 
 ## Rules
-The rules for this implementation are adapted from Conway's Game of Life on Wikipedia. In this version, we use the following encoding to represent cells:
+The rules for this implementation are adapted from Conway's Game of Life on Wikipedia. In this version, I use the following encoding to represent cells:
 * 0: Dead cell
 * 1: Alive cell
 * 2: Cell that will die in the next generation
@@ -32,7 +32,7 @@ The GUI interface provides an intuitive way to experiment with the Game of Life.
 Feel free to experiment with different initial patterns and observe how they evolve over time.
 
 ## Contributing
-We welcome contributions to this project! If you have ideas for improvements, bug fixes, or new features, please submit issues or pull requests on GitHub. Together, we can make this implementation even better.
+I welcome contributions to this project! If you have ideas for improvements, bug fixes, or new features, please submit issues or pull requests on GitHub. Together, we can make this implementation even better.
 
 ## License
 This project is licensed under the MIT License. For more details, please refer to the LICENSE file.<br>
