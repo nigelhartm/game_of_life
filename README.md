@@ -11,6 +11,7 @@ The rules for this implementation are adapted from Conway's Game of Life on Wiki
 * 1: Alive cell
 * 2: Cell that will die in the next generation
 * 3: Cell that will be born in the next generation
+<br>
 These rules create a dynamic and ever-changing grid of cells, leading to the emergence of interesting patterns and behaviors over time. As you can see, the grid evolves from one generation to the next, creating interesting patterns and shapes.
 
 ## Example output
